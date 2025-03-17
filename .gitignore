@@ -1,0 +1,6 @@
+data/*
+
+.ipynb_*
+.virtual_documents
+
+.idea
