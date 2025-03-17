@@ -507,7 +507,7 @@ model.fit(text_ds, verbose=1, epochs=epochs, callbacks=[text_gen_callback])
 #
 # **Si vull anar de Palma de Mallorca fins a Hyderabad amb cotxe, explica els requisits que necessito complir, com a documentació necessària, vacunes, zones a evitar i punts d'interès pels quals valguin la pena desviar-se del camí més curt i ràpid.**
 #
-# He desat les respostes al [directori de resposts d'aquest repo](respostes_models/README.md.md)
+# He desat les respostes al [directori de resposts d'aquest repo](respostes_models/README.md)
 #
 #
 # ### Llama
